@@ -10,7 +10,6 @@ Peppermint and orange flavored.
 | ---- | ---------- |
 | [bat](https://github.com/sharkdp/bat) | [vesper-bat](https://github.com/adriandlam/vesper-bat) |
 | [fzf](https://github.com/junegunn/fzf) | [vesper-fzf](https://github.com/adriandlam/vesper-fzf) |
-| [delta](https://github.com/dandavison/delta) | [vesper-delta](https://github.com/adriandlam/vesper-delta) |
 | [eza](https://github.com/eza-community/eza) | [vesper-eza](https://github.com/adriandlam/vesper-eza) |
 | [atuin](https://github.com/atuinsh/atuin) | [vesper-atuin](https://github.com/adriandlam/vesper-atuin) |
 
@@ -59,19 +58,6 @@ export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS \
   --color=marker:#99ffe4,fg+:#ffffff,prompt:#ffc799,hl+:#ffc799 \
   --color=selected-bg:#2a2a2a,border:#2a2a2a,gutter:#101010"
 ```
-
-## delta
-
-Includable gitconfig for the delta diff viewer.
-
-![delta](previews/delta.png)
-
-```gitconfig
-[include]
-  path = /path/to/vesper-delta/vesper.gitconfig
-```
-
-Or copy the `[delta]` section from [`vesper.gitconfig`](https://github.com/adriandlam/vesper-delta/blob/main/vesper.gitconfig) into your `~/.gitconfig`.
 
 ## eza
 
