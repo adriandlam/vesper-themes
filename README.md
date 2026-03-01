@@ -92,14 +92,14 @@ name = "vesper"
 
 | Role        | Hex       | Preview |
 | ----------- | --------- | ------- |
-| Background  | `#101010` | ![#101010](https://via.placeholder.com/12/101010/101010.png) |
-| Foreground  | `#CCCCCC` | ![#CCCCCC](https://via.placeholder.com/12/CCCCCC/CCCCCC.png) |
-| Strings     | `#99FFE4` | ![#99FFE4](https://via.placeholder.com/12/99FFE4/99FFE4.png) |
-| Keywords    | `#FFC799` | ![#FFC799](https://via.placeholder.com/12/FFC799/FFC799.png) |
-| Comments    | `#7D7D7D` | ![#7D7D7D](https://via.placeholder.com/12/7D7D7D/7D7D7D.png) |
-| Errors      | `#FF8080` | ![#FF8080](https://via.placeholder.com/12/FF8080/FF8080.png) |
-| Operators   | `#65737E` | ![#65737E](https://via.placeholder.com/12/65737E/65737E.png) |
-| Functions   | `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/12/FFFFFF/FFFFFF.png) |
+| Background  | `#101010` | ![](https://img.shields.io/badge/%20-101010?style=flat-square&color=101010) |
+| Foreground  | `#CCCCCC` | ![](https://img.shields.io/badge/%20-CCCCCC?style=flat-square&color=CCCCCC) |
+| Strings     | `#99FFE4` | ![](https://img.shields.io/badge/%20-99FFE4?style=flat-square&color=99FFE4) |
+| Keywords    | `#FFC799` | ![](https://img.shields.io/badge/%20-FFC799?style=flat-square&color=FFC799) |
+| Comments    | `#7D7D7D` | ![](https://img.shields.io/badge/%20-7D7D7D?style=flat-square&color=7D7D7D) |
+| Errors      | `#FF8080` | ![](https://img.shields.io/badge/%20-FF8080?style=flat-square&color=FF8080) |
+| Operators   | `#65737E` | ![](https://img.shields.io/badge/%20-65737E?style=flat-square&color=65737E) |
+| Functions   | `#FFFFFF` | ![](https://img.shields.io/badge/%20-FFFFFF?style=flat-square&color=FFFFFF) |
 
 ## Credits
 
