@@ -18,11 +18,11 @@ Peppermint and orange flavored.
 
 TextMate theme (`.tmTheme`) for bat and Sublime Text.
 
-![bat](https://raw.githubusercontent.com/adriandlam/vesper-bat/main/preview.png)
+![bat](previews/bat.png)
 
 And with fzf:
 
-![bat + fzf](https://raw.githubusercontent.com/adriandlam/vesper-bat/main/preview-fzf.png)
+![bat + fzf](previews/bat-fzf.png)
 
 ```sh
 # Copy theme and rebuild cache
@@ -43,7 +43,7 @@ Or add to your bat config (`bat --config-file`):
 
 Sourceable `--color` config for fzf.
 
-![fzf](https://raw.githubusercontent.com/adriandlam/vesper-fzf/main/preview.png)
+![fzf](previews/fzf.png)
 
 ```sh
 # Source it
@@ -64,7 +64,7 @@ export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS \
 
 Includable gitconfig for the delta diff viewer.
 
-![delta](https://raw.githubusercontent.com/adriandlam/vesper-delta/main/preview.png)
+![delta](previews/delta.png)
 
 ```gitconfig
 [include]
@@ -77,7 +77,7 @@ Or copy the `[delta]` section from [`vesper.gitconfig`](https://github.com/adria
 
 Full `theme.yml` with file type, permission, and git colors.
 
-![eza](https://raw.githubusercontent.com/adriandlam/vesper-eza/main/preview.png)
+![eza](previews/eza.png)
 
 ```sh
 mkdir -p ~/.config/eza
@@ -88,7 +88,7 @@ cp theme.yml ~/.config/eza/theme.yml
 
 Theme TOML for the atuin shell history TUI.
 
-![atuin](https://raw.githubusercontent.com/adriandlam/vesper-atuin/main/preview.png)
+![atuin](previews/atuin.png)
 
 ```sh
 mkdir -p ~/.config/atuin/themes
